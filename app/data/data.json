@@ -1,0 +1,34 @@
+﻿{
+  "products": [
+    {
+      "name": "Milk",
+      "propities": 
+        {
+          "Quantity": 10,
+          "Price": 100,
+          "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      
+    },
+    {
+      "name": "Bread",
+      "propities": 
+        {
+          "Quantity": 3,
+          "Price": 30,
+          "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      
+    },
+    {
+      "name": "Cheerios",
+      "propities": 
+        {
+          "Quantity": 2,
+          "Price": 120,
+          "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      
+    }
+  ]
+}
